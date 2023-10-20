@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 # Hi there, I am Ciro 👋
 
 - 📚 I am currently studying for the first semester of the third year of the Bachelor in Computer Science at the University of Padua;
-- 🔭 I’m currently working on the swe project relatedto ai;
+- 🔭 I’m currently working on the swe project related to ai;
 - ⚡ Fun fact: my name is not Ciro;
