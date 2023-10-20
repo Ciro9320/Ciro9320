@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there, I am Ciro 👋
+
+- 📚 I am currently studying for the first semester of the third year of the Bachelor in Computer Science at the University of Padua;
+
+## 🔭 Trying to have an impact, making the world a better place through code.
