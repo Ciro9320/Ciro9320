@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 -->
 # Hi there, I am Ciro 👋
 
-- 📚 I am currently studying for the first semester of the third year of the Bachelor in Computer Science at the University of Padua;
-- 🔭 I’m currently working on the swe project related to ai;
-- ⚡ Fun fact: my name is not Ciro;
+- 🎓 I have a Bachelor's degree in Computer Science from the University of Padua;  
+- 📚 I am currently in the second semester of the first year of my Master's in Computer Science at the University of Padua;  
+- 🔭 I’m currently working on an SBOM-related project;  
+- ⚡ Fun fact: my name is not Ciro.  
+
+🤔 Confused? Me too. But hey, welcome to my GitHub!
