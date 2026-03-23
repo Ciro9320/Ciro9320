@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 # Hi there, I am Ciro 👋
 
 - 🎓 I have a Bachelor's degree in Computer Science from the University of Padua;  
-- 📚 I am currently in the second semester of the first year of my Master's in Computer Science at the University of Padua;  
-- 🔭 I’m currently working on an SBOM-related project;
-- 📱 I'm also developing a mobile application using React Native — stay tuned;
+- 📚 I am currently writing my Master's thesis on the power consumption of smartphone sensors and the feature sets of native vs. modern cross-platform mobile frameworks;  
 - ⚡ Fun fact: my name is not Ciro.  
 
 🤔 Confused? Me too. But hey, welcome to my GitHub!
